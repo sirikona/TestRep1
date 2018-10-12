@@ -30,5 +30,6 @@ public class JunitClassExample {
 	public void DraftTestMehtod()
 	{
 		System.out.println("5.Draft Test Method");	
+		System.out.println("This print message added by Sireesha");
 	}
 }

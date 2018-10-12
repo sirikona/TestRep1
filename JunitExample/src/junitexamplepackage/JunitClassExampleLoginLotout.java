@@ -20,5 +20,6 @@ public class JunitClassExampleLoginLotout {
 	public void ComposeEmail()
 	{
 		System.out.println("Compose Email Test method");
+		System.out.println("Print message 2 added by Sireesha");
 	}
 }
